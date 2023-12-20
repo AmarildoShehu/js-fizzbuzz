@@ -49,3 +49,4 @@ Buon lavoro e buon divertimento!
 2. creo un contenitore;
 3. riempio gli elementi tramite js;
 4. inserisco la formula per cambiare il nome ai div
+5. aggiungo classi per cambiarle il colore

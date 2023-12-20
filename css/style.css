@@ -1,9 +1,28 @@
 /* // 3. riempio gli elementi tramite js; */
+
 .myNewDiv {
-    width: 75px;
-    height: 75px;
-    border: 1px solid black;
+    width: 80px;
+    height: 80px;
+    background-color: dodgerblue;
+    border: 2px solid black;
     display: flex;
     align-items: center;
     justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    border-radius: 3px;
+    background-size: contain;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.fizz{
+    background-color: yellow;
+}
+
+.buzz{
+    background-color: burlywood;
+}
+
+.fizzbuzz{
+    background-color: tomato;
 }
