@@ -1,0 +1,8 @@
+.myNewDiv {
+    width: 75px;
+    height: 75px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
