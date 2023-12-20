@@ -48,4 +48,4 @@ Buon lavoro e buon divertimento!
 1. collegamento file html e script;
 2. creo un contenitore;
 3. riempio gli elementi tramite js;
-4. 
+4. inserisco la formula per cambiare il nome ai div
