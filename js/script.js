@@ -7,6 +7,6 @@ const mybox = document.getElementById('mybox');
 for(let i=0; i<50; i++){
     const myNewDiv = document.createElement('div');
     myNewDiv.classList.add('myNewDiv');
-    myNewDiv.textContent = Div i + 1;
+    myNewDiv.textContent = i + 1;
     mybox.appendChild(myNewDiv);
 }
